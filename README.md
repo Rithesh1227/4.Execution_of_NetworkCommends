@@ -27,6 +27,11 @@ This commands includes
 <BR>
 
 ## Output
-
+## ipconfig
+<img width="1081" height="655" alt="image" src="https://github.com/user-attachments/assets/81233b35-c44f-4891-b604-971e52e592bd" />
+## arp
+<img width="997" height="786" alt="image" src="https://github.com/user-attachments/assets/b6962ce7-44ad-45f9-aea5-a378be60c175" />
+## getmac
+<img width="1107" height="162" alt="image" src="https://github.com/user-attachments/assets/d04ec8a5-a723-4fb3-b4ad-89534ff15c12" />
 ## Result
 Thus Execution of Network commands Performed 
